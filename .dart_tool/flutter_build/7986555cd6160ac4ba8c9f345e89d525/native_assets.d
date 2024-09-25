@@ -1,0 +1,1 @@
+ /Users/reactnative16gb/Downloads/like_play_mobile\ 2/.dart_tool/flutter_build/7986555cd6160ac4ba8c9f345e89d525/native_assets.yaml: 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "312977002782",
+    "project_id": "likeplay-likeplay-f891b",
+    "storage_bucket": "likeplay-likeplay-f891b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312977002782:android:1a43723daead1d40edb90f",
+        "android_client_info": {
+          "package_name": "com.sfs.likeplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312977002782-4dvptd71vh034rgsahi6fbo719uhlsh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSBpZkPuTPuRH4Tyu-pIlbbdSEYheji9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312977002782-4dvptd71vh034rgsahi6fbo719uhlsh6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
